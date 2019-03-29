@@ -21,8 +21,6 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.FrameLayout;
 
-import com.sky.app.learning.weex.R;
-
 import java.util.List;
 
 import pub.devrel.easypermissions.AfterPermissionGranted;

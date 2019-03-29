@@ -11,7 +11,7 @@ import android.view.MenuItem;
 import android.webkit.MimeTypeMap;
 import android.webkit.URLUtil;
 
-import com.sky.app.learning.weex.R;
+import com.sky.app.learning.R;
 
 import cn.bingoogolapple.qrcode.core.QRCodeView;
 import cn.bingoogolapple.qrcode.zxing.ZXingView;

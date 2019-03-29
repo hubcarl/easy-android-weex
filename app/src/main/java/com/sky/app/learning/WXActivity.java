@@ -14,7 +14,7 @@ import android.widget.FrameLayout;
 import java.util.Date;
 import java.util.regex.Pattern;
 
-import com.sky.app.learning.weex.R;
+
 import com.taobao.weex.IWXRenderListener;
 import com.taobao.weex.WXSDKInstance;
 import com.taobao.weex.common.WXRenderStrategy;

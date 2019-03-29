@@ -14,8 +14,6 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
-import com.sky.app.learning.weex.R;
-
 public class WebActivity extends AppCompatActivity {
 
     private WebView web;

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sky-learning</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Sky-Learning</string>
+    <string name="nav_header_subtitle">hubcarl@126.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
